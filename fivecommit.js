@@ -1,4 +1,4 @@
 let a = 5;
-let b = 3;
-const c = a+b;
+var d = 3;
+const c = a+d;
 console.log(c);
